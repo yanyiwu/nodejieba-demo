@@ -1,0 +1,14 @@
+{
+  "name": "nodejiebademo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node demo.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodejieba": "^3.2.0"
+  }
+}
