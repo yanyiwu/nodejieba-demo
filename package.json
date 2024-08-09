@@ -9,6 +9,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "nodejieba": "^3.2.0"
+    "nodejieba": "^3.4.0"
   }
 }
