@@ -40,3 +40,10 @@ console.log(result);
 
 result = nodejieba.cutSmall("南京市长江大桥", 3);
 console.log(result);
+
+nodejieba.load({
+  userDict: __dirname + '/userdict.utf8',
+});
+
+result = nodejieba.cut('红掌拨清波')
+console.log(result);
